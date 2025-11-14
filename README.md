@@ -119,7 +119,7 @@ You are free to use, modify, and distribute it with proper credit to **Soumodip 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/THE-SOUMODIPghoshOFFICIAL/main/assets/line.png" width="80%">
+  <img src="https://cdn.pixabay.com/photo/2023/05/09/01/47/gold-7980065_640.jpg" width="60%">
 </p>
 
 <h3 align="center">🌌 "The Atlas Protocol — Where Numbers Meet Logic." 🌌</h3>
