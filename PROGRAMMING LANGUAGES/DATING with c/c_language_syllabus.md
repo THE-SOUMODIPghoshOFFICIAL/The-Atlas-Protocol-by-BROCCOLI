@@ -1,10 +1,4 @@
-Nice — let’s make this syllabus look **clean, readable, and navigable** on GitHub while keeping all your content intact. I’ll format it with a table of contents, clear headings, collapsible sections for the long lists, small badges, and a few inline code/examples where useful. You can paste the whole thing into `c_language_syllabus.md` (or `README.md` inside the `C/` folder).
 
----
-
-Copy–paste this entire Markdown to replace your current file:
-
-````markdown
 <!-- ================================================================= -->
 <!--   COMPLETE C LANGUAGE SYLLABUS — The Atlas Protocol (C Roadmap)    -->
 <!-- ================================================================= -->
