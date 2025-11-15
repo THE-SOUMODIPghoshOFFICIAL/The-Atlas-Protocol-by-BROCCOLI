@@ -1,7 +1,9 @@
 ![C Roadmap Cover](https://media.licdn.com/dms/image/C5612AQEe2NcU8hQtvA/article-cover_image-shrink_720_1280/0/1643807289821?e=2147483647&v=beta&t=7xRluOX2TZxAYn8RzqGWlr5RAE2hGsiOb4FEUlxTCS4)
 
-# 🚀 Complete C Programming Language Roadmap
-
+<div align="center">
+<h1> 🚀 Complete C Programming Language Roadmap
+</h1>
+</div>
 <div align="center">
 
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
