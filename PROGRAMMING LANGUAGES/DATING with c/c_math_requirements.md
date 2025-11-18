@@ -117,12 +117,3 @@ You can use KaTeX inline for equations: $N \\times s$ means N times size s.
 
 ---
 
-If you'd like, I can:
-
-- Add more interactive exercises (with increasing difficulty), or
-- Create a small runnable set of example programs in a `examples/` folder, or
-- Commit these changes and push to the repository.
-
----
-
-Generated and styled version of `c_math_requirements.md` — let me know which of the optional follow-ups you'd like.
