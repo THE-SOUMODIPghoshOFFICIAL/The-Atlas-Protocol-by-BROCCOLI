@@ -41,14 +41,10 @@
 Below is a simple flowchart of recommended phases. (GitHub supports Mermaid diagrams in many places.)
 
 ```mermaid
-flowchart LR
-  A[Phase 1 - Start (No Math)] --> B[Phase 2 - Elementary Math]
-  B --> C[Phase 3 - Pointers & Memory]
-  C --> D[Phase 4 - Advanced Math When Needed]
-  style A fill:#9fdfbf,stroke:#333,stroke-width:1px
-  style B fill:#f9e79f,stroke:#333,stroke-width:1px
-  style C fill:#f5b7b1,stroke:#333,stroke-width:1px
-  style D fill:#d2b4de,stroke:#333,stroke-width:1px
+flowchart TD
+    A["Phase 1: Start (No Math)"] --> B["Phase 2: Elementary Math"]
+    B --> C["Phase 3: Pointers & Memory"]
+    C --> D["Phase 4: Advanced Math When Needed"]
 ```
 
 ---
