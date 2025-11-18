@@ -45,17 +45,21 @@ Whether you're just starting out or aiming for expert-level skills, you'll find 
 ## 📚 What You'll Find
 
 ### 🚀 DSA Roadmaps
+
 - **complete_dsa_roadmap_forZEROtoAdv.md**: A full journey from zero to advanced in Data Structures & Algorithms.
 - **math_for_dsa_roadmap.md**: Math concepts explained for DSA, with practical examples.
 
 ### 💻 Programming Guides
+
 - **DATING with c/**: Learn C programming from scratch, with a clear roadmap and math requirements explained simply.
 - **mr.python/**: Python roadmap and resources (coming soon—contribute or suggest topics!)
 
 ### 🧠 Math for Coders
+
 - Math-light learning tips, quick refreshers, and interactive exercises for every major topic.
 
 ### 🏆 For All Levels
+
 - Beginner-friendly explanations
 - Advanced strategies and best practices
 - Real-world project ideas and interview prep
@@ -79,13 +83,13 @@ This project is always growing! If you have suggestions, want to add new topics,
 
 ## 📂 File Guide
 
-| File/Folder | Description |
-|-------------|-------------------------------------------------------------|
-| DSA/complete_dsa_roadmap_forZEROtoAdv.md | Full DSA roadmap, beginner to advanced |
-| DSA/math_for_dsa_roadmap.md | Math for DSA, with examples |
-| PROGRAMMING LANGUAGES/DATING with c/c_roadmap_ZEROtoADV.md | C programming roadmap |
-| PROGRAMMING LANGUAGES/DATING with c/c_math_requirements.md | Math requirements for C |
-| PROGRAMMING LANGUAGES/mr.python/ | Python roadmap (coming soon) |
+| File/Folder                                                | Description                            |
+| ---------------------------------------------------------- | -------------------------------------- |
+| DSA/complete_dsa_roadmap_forZEROtoAdv.md                   | Full DSA roadmap, beginner to advanced |
+| DSA/math_for_dsa_roadmap.md                                | Math for DSA, with examples            |
+| PROGRAMMING LANGUAGES/DATING with c/c_roadmap_ZEROtoADV.md | C programming roadmap                  |
+| PROGRAMMING LANGUAGES/DATING with c/c_math_requirements.md | Math requirements for C                |
+| PROGRAMMING LANGUAGES/mr.python/                           | Python roadmap (coming soon)           |
 
 ---
 
@@ -99,20 +103,20 @@ This project is always growing! If you have suggestions, want to add new topics,
 ## 🧠 Philosophy Behind “The Atlas Protocol”
 
 > “Mathematics is the language of logic,  
->  and algorithms are its dialect.”  
+>  and algorithms are its dialect.”
 
 This protocol connects the two — transforming abstract math into tangible programming logic.  
 It’s designed for self-learners, programmers, and computer science enthusiasts  
-who wish to *think like algorithmic architects.*
+who wish to _think like algorithmic architects._
 
 ---
 
 ## 📅 Future Goals
 
-- 🔹 Add **visual diagrams** for each math concept.  
-- 🔹 Include **interactive notebooks (Jupyter / Colab)** for practice.  
-- 🔹 Expand to **“Atlas: Volume II — Applied DSA Math.”**  
-- 🔹 Add **YouTube video links** for each math principle.  
+- 🔹 Add **visual diagrams** for each math concept.
+- 🔹 Include **interactive notebooks (Jupyter / Colab)** for practice.
+- 🔹 Expand to **“Atlas: Volume II — Applied DSA Math.”**
+- 🔹 Add **YouTube video links** for each math principle.
 
 ---
 
