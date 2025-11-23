@@ -2,6 +2,10 @@
 <!--    THE ATLAS PROTOCOL — Cyber-Fantasy / Premium README   -->
 <!-- ====================================================== -->
 
+<p align="center">
+  <img src="assets/banner.png" alt="The Atlas Protocol Banner (replace with your uploaded image)" style="max-width:100%; height:auto; border-radius:10px;">
+</p>
+
 <h1 align="center">🔮 The Atlas Protocol — Ultimate Programming Treasure</h1>
 
 <p align="center">
@@ -59,13 +63,11 @@ This repo is ideal for:
 
 ## How to use this repo
 
-- Browse the top-level folders (DSA, Programming-Languages, Networks).
+- Browse the top-level folders (`DSA`, `PROGRAMMING LANGUAGES`, `ANDROIDdevelopment`, `GAMEdevelopment`, `IOSdevelopment`, `WEB-WARRIOR`, `CYBER_MANIAC`).
 - Read roadmaps first (they explain _why_), then explore example code and exercises (they show _how_).
 - Use the **Projects** tab to follow tasks and progress (issues → add to Project).
 
 ---
-
-
 
 ## Featured Roadmaps
 
