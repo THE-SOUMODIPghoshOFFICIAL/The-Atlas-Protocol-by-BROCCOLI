@@ -3,7 +3,7 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="The Atlas Protocol Banner (replace with your uploaded image)" style="max-width:100%; height:auto; border-radius:10px;">
+  <img src="https://www.therpf.com/forums/attachments/43654576552_fd8a1bb0f2_b-jpg.852718/" alt="The Atlas Protocol Banner (replace with your uploaded image)" style="max-width:100%; height:auto; border-radius:10px;">
 </p>
 
 <h1 align="center">🔮 The Atlas Protocol — Ultimate Programming Treasure</h1>
