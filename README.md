@@ -149,3 +149,14 @@ If you'd like, I can generate initial issues for the C syllabus and add them to 
 - Banner and section images give the repo a consistent cyber-fantasy + premium dev aesthetic.
 
 ---
+
+## License & Contact
+
+This repo is open-source under the **MIT License**.  
+Maintained by **Soumodip Ghosh (BROCCOLI)** — feel free to open issues, send PRs, and collaborate.
+
+---
+
+<p align="center">
+  <small>“The Atlas Protocol — a map from curiosity to mastery.”</small>
+</p>
