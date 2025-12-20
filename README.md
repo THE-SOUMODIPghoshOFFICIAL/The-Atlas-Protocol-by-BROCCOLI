@@ -133,7 +133,16 @@ If you'd like, I can generate initial issues for the C syllabus and add them to 
 
 ---
 
-y
+## Recommended starter issues (copy into Issues)
+
+- `C: write pointer examples + code snippets`
+- `C: add dynamic array (vector) example`
+- `DSA: add graph math visual diagrams`
+- `Python: create algorithm practice notebook (sorting)`
+
+---
+
+## Notes on styling & interactivity
 
 - Major blocks are collapsible to keep the page tidy.
 - Badges at the top show repo intent and status.
