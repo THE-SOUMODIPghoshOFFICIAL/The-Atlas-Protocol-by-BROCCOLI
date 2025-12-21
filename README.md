@@ -110,16 +110,7 @@ Open the full guides:
 
 ### Python (summary)
 
-- From idiomatic syntax → OOP patterns → helpful libs for data work
-- Scripts, testing, packaging, and example notebooks to practice algorithms
 
-Open the full guides and cheat sheets:
-
-- `PROGRAMMING LANGUAGES/mr.python/complete_python_map.md`
-- `PROGRAMMING LANGUAGES/mr.python/Python Cheat Sheet & Quick Reference.pdf`
-</details>
-
----
 
 ## Contributing & Workflow (Projects)
 
