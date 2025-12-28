@@ -69,11 +69,6 @@ Linux / macOS (if applicable):
 2. Open in Android Studio, run on emulator or device.
 3. Modify a screen or feature, rebuild with `./gradlew assembleDebug`.
 
-## Contributing
-
-- Add samples or guides under the suggested folders.
-- Keep commits focused and add a short `README.md` per sample.
-- Use clear folder naming: `projects/tic-tac-toe-kotlin/` or `tutorials/coroutines-basics/`.
 
 ## Resources
 
