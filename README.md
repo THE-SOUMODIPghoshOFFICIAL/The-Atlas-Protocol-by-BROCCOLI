@@ -121,17 +121,6 @@ Open the full guides and cheat sheets:
 
 ---
 
-## Contributing & Workflow (Projects)
-
-We use **GitHub Projects** to plan content. Typical workflow:
-
-1. Create an **Issue** describing the item (`add pointer examples`)
-2. Assign & add to Atlas **Project** with fields: Repo, Type, Priority, Estimate
-3. Implement in branch → open PR → when merged, automation moves Project item to Done
-
-If you'd like, I can generate initial issues for the C syllabus and add them to a Project for you.
-
----
 
 ## Recommended starter issues (copy into Issues)
 
