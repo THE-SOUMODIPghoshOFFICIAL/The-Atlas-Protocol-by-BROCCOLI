@@ -69,7 +69,6 @@ Linux / macOS (if applicable):
 2. Open in Android Studio, run on emulator or device.
 3. Modify a screen or feature, rebuild with `./gradlew assembleDebug`.
 
-
 ## Resources
 
 - Android docs: https://developer.android.com
