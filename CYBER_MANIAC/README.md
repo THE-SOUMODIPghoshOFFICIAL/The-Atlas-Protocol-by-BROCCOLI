@@ -56,9 +56,3 @@
 - Open an issue or PR with improvements, templates, or sanitized writeups.
 - Use clear labeling: `TOOL`, `POC`, `WRITEUP`, `SCAN`.
 
-## License & Contact
-
-- Check the repository root `LICENSE` for licensing information.
-- Questions or collabs: open an issue in the main repo.
-
-Have fun—stay curious and stay ethical. ⚡
