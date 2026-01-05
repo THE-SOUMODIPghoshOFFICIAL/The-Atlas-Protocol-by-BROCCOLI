@@ -1,20 +1,3 @@
-# ANDROIDdevelopment
-
-This folder contains notes, resources, and sample projects for Android development.
-
-Purpose
-
-- Central place for Android study notes, project templates, and guides.
-
-Suggested structure
-
-- projects/ — sample apps, experiment projects
-- tutorials/ — walkthroughs and how-tos
-- assets/ — images, icons, mock data
-- docs/ — design notes, architecture sketches
-
-<!-- prettier-ignore -->
-<!-- Cool README for Android dev resources -->
 
 # 🚀 ANDROIDdevelopment
 
