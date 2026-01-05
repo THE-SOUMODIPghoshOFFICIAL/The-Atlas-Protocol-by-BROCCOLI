@@ -25,15 +25,49 @@
 
 ---
 
-## 📌 Quick Links (actual files)
+## 📌 Quick Links — New & Notable Resources
 
-- 🔗 DSA — Complete roadmap: `DSA/complete_dsa_roadmap_forZEROtoAdv.md`
-- 🔗 DSA — Math for DSA: `DSA/math_for_dsa_roadmap.md`
-- 🔗 DSA — Flowchart PDF: `DSA/datastructures-and-algorithms_flowchartMAP.pdf`
-- 💻 C — Roadmap & math: `PROGRAMMING LANGUAGES/DATING with c/c_roadmap_ZEROtoADV.md`
+### DSA
+
+- 🔗 Complete roadmap: `DSA/complete_dsa_roadmap_forZEROtoAdv.md`
+- 🔗 Math primer: `DSA/math_for_dsa_roadmap.md`
+- 🔗 Visual flowchart: `DSA/datastructures-and-algorithms_flowchartMAP.pdf`
+- 🔗 Folder intro: `DSA/README.md`
+
+### Programming Languages
+
+- 💻 C — Roadmap: `PROGRAMMING LANGUAGES/DATING with c/c_roadmap_ZEROtoADV.md`
 - 💻 C — Math requirements: `PROGRAMMING LANGUAGES/DATING with c/c_math_requirements.md`
 - 🐍 Python — Complete map: `PROGRAMMING LANGUAGES/mr.python/complete_python_map.md`
-- 🐍 Python — Cheat sheet: `PROGRAMMING LANGUAGES/mr.python/Python Cheat Sheet & Quick Reference.pdf`
+- 🐍 Python — Cheat sheet (PDF): `PROGRAMMING LANGUAGES/mr.python/Python Cheat Sheet & Quick Reference.pdf`
+- 🔧 C++ quick reference PDF: `PROGRAMMING LANGUAGES/c++/cpp.pdf`
+
+### Web & Frontend
+
+- 🌐 Frontend overview PDF: `WEB-WARRIOR/FRONTEND/frontend.pdf`
+- 📄 HTML roadmap: `WEB-WARRIOR/FRONTEND/html-roadmap.pdf`
+- 🎨 CSS roadmap: `WEB-WARRIOR/FRONTEND/css roadmap.pdf`
+- 🧠 JS map: `WEB-WARRIOR/FRONTEND/dedicated js/javascript-map.pdf`
+- 🖥️ Backend overview PDF: `WEB-WARRIOR/BACKEND/backend.pdf`
+
+### Mobile, Game & Platform
+
+- 🤖 Android map PDF: `ANDROIDdevelopment/android-map.pdf`
+- 📱 iOS map PDF: `IOSdevelopment/ios-map.pdf`
+- 🎮 Game dev map PDF: `GAMEdevelopment/game-developer-map.pdf`
+
+### Tools, Shell & Logs
+
+- 🐚 Shell reference: `shell-scriptorium/os-shell-reference.md`
+- 📘 Shell README: `shell-scriptorium/README.md`
+- 🗒️ Daily log: `daily-log.md`
+
+### Cyber & Misc
+
+- 🔐 Cyber roadmap PDF: `CYBER_MANIAC/cyber-security_roadmap.pdf`
+- 📂 Cyber templates: `CYBER_MANIAC/template/README.md`
+
+---
 
 ---
 
