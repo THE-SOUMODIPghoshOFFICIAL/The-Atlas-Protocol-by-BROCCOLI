@@ -57,12 +57,6 @@ Linux / macOS (if applicable):
 - Android docs: https://developer.android.com
 - Kotlin: https://kotlinlang.org
 
----
 
-## Want more?
-
-If you'd like, I can scaffold `projects/`, `tutorials/`, `assets/`, and add a starter sample app (Kotlin + Jetpack Compose). Tell me which starter (e.g., "Todo app" or "Camera sample") and I'll create it.
-
----
 
 _Made with ❤ — The Atlas Protocol_
