@@ -195,15 +195,15 @@ View ↔ Controller ↔ Model
 <details>
 <summary><strong>Which should you learn first? (click to expand)</strong></summary>
 
-| Aspect | SwiftUI | UIKit |
-|--------|---------|-------|
-| **Paradigm** | Declarative | Imperative |
-| **Syntax** | Modern, concise | Verbose, established |
-| **Learning curve** | Gentler (functional) | Steeper (OOP) |
-| **Min iOS** | iOS 13+ | iOS 2+ (any version) |
-| **Performance** | Good, optimized | Mature, proven |
-| **Adoption** | Growing fast | Mature ecosystem |
-| **When to use** | New projects, iOS 13+ | Legacy codebases, max support |
+| Aspect             | SwiftUI               | UIKit                         |
+| ------------------ | --------------------- | ----------------------------- |
+| **Paradigm**       | Declarative           | Imperative                    |
+| **Syntax**         | Modern, concise       | Verbose, established          |
+| **Learning curve** | Gentler (functional)  | Steeper (OOP)                 |
+| **Min iOS**        | iOS 13+               | iOS 2+ (any version)          |
+| **Performance**    | Good, optimized       | Mature, proven                |
+| **Adoption**       | Growing fast          | Mature ecosystem              |
+| **When to use**    | New projects, iOS 13+ | Legacy codebases, max support |
 
 **Recommendation**: Start with **SwiftUI** if targeting iOS 13+. Learn UIKit patterns for interviews & legacy code.
 
