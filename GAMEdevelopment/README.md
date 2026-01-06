@@ -149,3 +149,14 @@ GAMEdevelopment/
 - Share project templates, tutorials, or optimization tips.
 - Label contributions: `TUTORIAL`, `TEMPLATE`, `SNIPPET`, `ART`, `AUDIO`, `PUBLISH`.
 - Include a short README in each subfolder explaining scope and skill level.
+
+## License & Contact
+
+- See repository root `LICENSE` for licensing details.
+- Found a bug or have a game dev question? Open an issue in the main repo.
+
+---
+
+<p align="center">
+  <strong>From idea to shipped game — iterate, test, ship, repeat. 🚀</strong>
+</p>
