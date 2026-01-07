@@ -1,3 +1,6 @@
+# C++ — Systems Programming & High Performance
+
+> Master modern C++ — from pointers to templates to concurrent systems.
 
 ```text
  ██████╗                            
