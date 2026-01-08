@@ -175,6 +175,13 @@ Apply these concepts when implementing hash functions, bit tricks, and algorithm
 
 ---
 
+## Resources & books
+
+- The C Programming Language — Kernighan & Ritchie (classic)
+- 21st Century C — Ben Klemens
+- Linux System Programming — Robert Love
+- CPPReference / man pages / POSIX docs
+
 ---
 
 ## Contributing
