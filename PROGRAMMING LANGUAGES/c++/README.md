@@ -18,6 +18,23 @@
 
 ## Table of Contents
 
+- [What is this?](#what-is-this)
+- [Quick Facts](#quick-facts)
+- [Getting Started](#getting-started)
+- [Interactive Skill Tracker](#interactive-skill-tracker)
+- [C++ Learning Roadmap](#c-learning-roadmap)
+- [Core Concepts](#core-concepts)
+- [STL Deep-Dive](#stl-deep-dive)
+- [Modern C++ (C++11/17/20)](#modern-c-c11-c17-c20)
+- [Memory Management](#memory-management)
+- [Design Patterns](#design-patterns)
+- [Recommended structure](#recommended-structure)
+- [Tools & Build Systems](#tools--build-systems)
+- [Best Practices](#best-practices)
+- [Performance Optimization](#performance-optimization)
+- [Contributing](#contributing)
+- [License & Contact](#license--contact)
+
 ---
 
 ## 💻 What is this?
