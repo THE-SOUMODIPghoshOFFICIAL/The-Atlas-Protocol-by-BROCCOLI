@@ -163,6 +163,15 @@ strace -f -o trace.log ./program
 
 ---
 
+## Math & theory
+
+See `c_math_requirements.md` for:
+
+- Bitwise arithmetic and modular reasoning
+- Recurrence relations for algorithm analysis
+- Number theory basics for crypto and hashing
+
+Apply these concepts when implementing hash functions, bit tricks, and algorithmic optimizations.
 
 ---
 
