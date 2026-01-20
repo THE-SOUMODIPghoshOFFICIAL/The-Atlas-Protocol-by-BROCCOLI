@@ -89,7 +89,9 @@ It blends visual guides, roadmaps, code examples, exercises, and curated referen
 
 This repo is ideal for:
 
-
+- Focused DSA study with math foundations
+- Language-specific roadmaps (C, Python, …)
+- Building a portfolio of teaching-quality resources
 
 ---
 
