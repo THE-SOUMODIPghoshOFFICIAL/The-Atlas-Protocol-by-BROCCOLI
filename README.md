@@ -84,8 +84,7 @@
 
 ## Overview
 
-**The Atlas Protocol** is built as a long-term resource hub and learning OS for programmers — from beginner to advanced.  
-It blends visual guides, roadmaps, code examples, exercises, and curated references into a single navigable library.
+**The Atlas Protocol** 
 
 This repo is ideal for:
 
