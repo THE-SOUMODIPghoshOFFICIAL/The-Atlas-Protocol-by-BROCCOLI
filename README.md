@@ -64,7 +64,7 @@
 
 ### Cyber & Misc
 
-- 🔐 Cyber roadmap PDF: `CYBER_MANIAC/cyber-security_roadmap.pdf`
+
 - 📂 Cyber templates: `CYBER_MANIAC/template/README.md`
 
 ---
