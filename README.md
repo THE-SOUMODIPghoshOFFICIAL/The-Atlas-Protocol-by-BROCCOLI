@@ -188,5 +188,7 @@ This repo is open-source under the **MIT License**.
 Maintained by **Soumodip Ghosh (BROCCOLI)** — feel free to open issues, send PRs, and collaborate.
 
 ---
-
+<p align="center">
+  <small>“The Atlas Protocol — a map from curiosity to mastery.”</small>
+</p>
 
