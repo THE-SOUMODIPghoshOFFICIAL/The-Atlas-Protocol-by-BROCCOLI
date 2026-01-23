@@ -189,6 +189,4 @@ Maintained by **Soumodip Ghosh (BROCCOLI)** — feel free to open issues, send P
 
 ---
 
-<p align="center">
-  <small>“The Atlas Protocol — a map from curiosity to mastery.”</small>
-</p>
+
