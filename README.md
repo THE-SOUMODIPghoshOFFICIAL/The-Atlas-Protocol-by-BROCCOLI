@@ -184,6 +184,11 @@ If you'd like, I can generate initial issues for the C syllabus and add them to 
 
 ---
 
+## License & Contact
+
+This repo is open-source under the **MIT License**.  
+Maintained by **Soumodip Ghosh (BROCCOLI)** — feel free to open issues, send PRs, and collaborate.
+
 ---
 
 <p align="center">
