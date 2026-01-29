@@ -16,7 +16,12 @@ Welcome to the Android playpen — a collection of notes, utilities, and tiny sa
 
 ---
 
+## Contents
 
+- `projects/` — small, focused sample apps
+- `tutorials/` — step-by-step guides and how-tos
+- `assets/` — images, icons, mock JSON
+- `docs/` — design notes, architecture sketches
 
 ## Quick Start
 
