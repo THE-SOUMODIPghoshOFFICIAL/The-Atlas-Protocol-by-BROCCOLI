@@ -23,7 +23,21 @@ Welcome to the Android playpen — a collection of notes, utilities, and tiny sa
 - `assets/` — images, icons, mock JSON
 - `docs/` — design notes, architecture sketches
 
+## Quick Start
 
+1. Install Android Studio and Android SDK.
+2. Open any sample in Android Studio or build via Gradle from the project folder.
+
+Windows (project root):
+
+```bash
+./gradlew.bat assembleDebug
+```
+
+Linux / macOS (if applicable):
+
+```bash
+./gradlew assembleDebug
 ```
 
 ## Features & Conventions
