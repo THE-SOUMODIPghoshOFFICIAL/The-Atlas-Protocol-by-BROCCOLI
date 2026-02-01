@@ -17,14 +17,6 @@
 
 ---
 
-<div align="center">
-
-**_A curated, visual, and interactive learning hub — where math meets algorithms, and code becomes craft._**
-
-</div>
-
----
-
 ## 📌 Quick Links — New & Notable Resources
 
 ### DSA
