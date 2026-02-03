@@ -8,13 +8,6 @@
 
 <h1 align="center">🔮 The Atlas Protocol — Ultimate Programming Treasure</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Repository-Resource%20Hub-blue?style=for-the-badge" alt="repo">
-  <img src="https://img.shields.io/badge/Focus-DSA%20•%20C%20•%20Python-brightgreen?style=for-the-badge" alt="focus">
-  <img src="https://img.shields.io/badge/Author-BROCCOLI%20(Soumodip)-orange?style=for-the-badge" alt="author">
-  <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge" alt="status">
-</p>
-
 ---
 
 <div align="center">
