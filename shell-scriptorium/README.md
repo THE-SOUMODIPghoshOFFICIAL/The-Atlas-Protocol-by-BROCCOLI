@@ -2,6 +2,18 @@
 
 > *"Every shell tells a story, every script echoes through time"*
 
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](LICENSE)
+[![OS Coverage](https://img.shields.io/badge/OS_Coverage-50+-blueviolet.svg)]()
+[![Shell Types](https://img.shields.io/badge/Shells-40+-success.svg)]()
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)]()
+
+**A comprehensive archive of command-line interfaces, shells, and scripting languages across the computing universe**
+
+[Documentation](#documentation) • [OS Coverage](#operating-systems-covered) • [For Pentesters](#for-penetration-testers) • [Contributing](#contributing)
+
+</div>
 
 ---
 
